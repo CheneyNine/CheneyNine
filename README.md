@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 My Social Platform:
 ![Static Badge](https://img.shields.io/badge/_-CheneyNine-blue?style=flat&logo=Github&cacheSeconds=https%3A%2F%2Fgithub.com%2FCheneyNine)
 ![Static Badge](https://img.shields.io/badge/Website-cheneynine.top-blue?style=flat&logo=googlehome&logoColor=white&link=https%3A%2F%2Fwww.cheneynine.top)
-
+![Static Badge](https://img.shields.io/badge/_-CQU__Cheney-green?style=flat&logo=wechat&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyinan-chen-9b09202b9%2F)
 ![Static Badge](https://img.shields.io/badge/_-Cheney-blue?style=flat&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyinan-chen-9b09202b9%2F)
 
 
