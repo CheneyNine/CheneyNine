@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome 👋
 
 <!--
 **CheneyNine/CheneyNine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My Social Platform:
+![Static Badge](https://img.shields.io/badge/_-CheneyNine-blue?style=flat&logo=Github&cacheSeconds=https%3A%2F%2Fgithub.com%2FCheneyNine)
+![Static Badge](https://img.shields.io/badge/Website-cheneynine.top-blue?style=flat&logo=googlehome&logoColor=white&link=https%3A%2F%2Fwww.cheneynine.top)
+
+![Static Badge](https://img.shields.io/badge/_-Cheney-blue?style=flat&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyinan-chen-9b09202b9%2F)
+
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2010%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
