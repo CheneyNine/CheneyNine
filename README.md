@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![](https://github-readme-stats.vercel.app/api?username=CheneyNine)
 
 **🐱 My GitHub Data** 
 
@@ -93,4 +94,3 @@ C++                      1 repo              ██░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-![](https://github-readme-stats.vercel.app/api?username=CheneyNine)
