@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 My Social Platform:
 ![Static Badge](https://img.shields.io/badge/_-CheneyNine-black?style=flat&logo=Github&logoColor=white&cacheSeconds=https%3A%2F%2Fgithub.com%2FCheneyNine)
 ![Static Badge](https://img.shields.io/badge/_-cheneynine.top-purple?style=flat&logo=googlehome&logoColor=white&link=https%3A%2F%2Fwww.cheneynine.top)
+<img alt="Static Badge" src="https://img.shields.io/badge/_-cheneynine.top-purple?logo=GoogleHome&logoColor=white">
+
 ![Static Badge](https://img.shields.io/badge/_-CQU__Cheney-green?style=flat&logo=wechat&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyinan-chen-9b09202b9%2F)
 ![Static Badge](https://img.shields.io/badge/_-Cheney-blue?style=flat&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyinan-chen-9b09202b9%2F)
 
