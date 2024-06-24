@@ -31,8 +31,6 @@ My Social Platform:
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 80 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 14 Public Repositories 
@@ -94,7 +92,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 23/06/2024 18:33:34 UTC
+ Last Updated on 24/06/2024 18:36:28 UTC
 <!--END_SECTION:waka-->
 
 
