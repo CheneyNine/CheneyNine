@@ -31,6 +31,8 @@ My Social Platform:
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
+> 🏆 86 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 15 Public Repositories 
@@ -64,20 +66,16 @@ Sunday                   12 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 1 min          ██████████████████████░░░   88.31 % 
-Python                   8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Safari                   44 mins             ████████████████░░░░░░░░░   63.15 % 
-VS Code                  25 mins             █████████░░░░░░░░░░░░░░░░   36.85 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-CheneyNine/csbaoyan-timet44 mins             ████████████████░░░░░░░░░   63.15 % 
-csbaoyan-timetable-2024  25 mins             █████████░░░░░░░░░░░░░░░░   36.77 % 
-Codes                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 10 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -93,7 +91,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2024 18:35:34 UTC
+ Last Updated on 05/08/2024 18:38:29 UTC
 <!--END_SECTION:waka-->
 
 
