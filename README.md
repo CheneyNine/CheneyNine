@@ -66,18 +66,16 @@ Sunday                   12 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 mins              ███████████████████████░░   90.37 % 
-Other                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Westlake_openclass       2 mins              ███████████████████████░░   90.37 % 
-Unknown Project          0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -93,7 +91,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 15/08/2024 18:38:25 UTC
+ Last Updated on 16/08/2024 18:38:08 UTC
 <!--END_SECTION:waka-->
 
 
