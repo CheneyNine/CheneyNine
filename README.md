@@ -23,7 +23,7 @@ My Social Platform:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-228%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-228%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -64,16 +64,16 @@ Sunday                   12 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 8 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Obsidian                 8 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Study_notes              8 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      8 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -89,7 +89,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 10/12/2024 18:44:56 UTC
+ Last Updated on 11/12/2024 18:45:13 UTC
 <!--END_SECTION:waka-->
 
 
