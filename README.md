@@ -31,8 +31,6 @@ My Social Platform:
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 91 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 15 Public Repositories 
@@ -91,7 +89,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 14/12/2024 18:41:33 UTC
+ Last Updated on 15/12/2024 18:41:32 UTC
 <!--END_SECTION:waka-->
 
 
