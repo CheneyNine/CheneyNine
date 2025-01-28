@@ -31,6 +31,8 @@ My Social Platform:
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 15 Public Repositories 
@@ -64,18 +66,16 @@ Sunday                   12 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 13 mins        █████████████████████████   100.00 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 13 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-毕业设计                     59 mins             ████████████████████░░░░░   81.02 % 
-TFB                      14 mins             █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 13 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -91,7 +91,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 27/01/2025 18:40:40 UTC
+ Last Updated on 28/01/2025 18:40:23 UTC
 <!--END_SECTION:waka-->
 
 
