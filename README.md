@@ -64,17 +64,16 @@ Sunday                   12 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Typst                    19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Resume-in-Typst-Personal 18 mins             ███████████████████████░░   92.14 % 
-Chinese-Resume-in-Typst-m1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -90,7 +89,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 13/02/2025 18:41:47 UTC
+ Last Updated on 14/02/2025 18:40:40 UTC
 <!--END_SECTION:waka-->
 
 
