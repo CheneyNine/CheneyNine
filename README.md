@@ -23,6 +23,8 @@ My Social Platform:
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-236%20hrs%2034%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -35,6 +37,45 @@ My Social Platform:
  > 
 > 🔑 6 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                31 commits          ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
+🌆 Daytime                76 commits          ██████████████░░░░░░░░░░░   54.68 % 
+🌃 Evening                29 commits          █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
+🌙 Night                  3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+Tuesday                  29 commits          █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
+Wednesday                22 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+Thursday                 24 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+Friday                   31 commits          ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
+Saturday                 10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+Sunday                   12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
@@ -48,7 +89,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 15/02/2025 18:37:50 UTC
+ Last Updated on 16/02/2025 18:38:31 UTC
 <!--END_SECTION:waka-->
 
 
