@@ -31,13 +31,11 @@ My Social Platform:
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 15 Public Repositories 
  > 
-> 🔑 6 Private Repositories 
+> 🔑 7 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -66,19 +64,16 @@ Sunday                   12 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-SSH Config               40 mins             █████████████░░░░░░░░░░░░   53.54 % 
-Markdown                 35 mins             ████████████░░░░░░░░░░░░░   46.46 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Safari                   1 hr 7 mins         ██████████████████████░░░   88.77 % 
-VS Code                  8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-thuml/Time-Series-Library1 hr 7 mins         ██████████████████████░░░   88.77 % 
-Study_notes              8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 15 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -94,7 +89,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 12/03/2025 18:43:56 UTC
+ Last Updated on 13/03/2025 18:43:06 UTC
 <!--END_SECTION:waka-->
 
 
