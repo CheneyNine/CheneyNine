@@ -31,6 +31,8 @@ My Social Platform:
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
+> 🏆 1 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 15 Public Repositories 
@@ -64,17 +66,16 @@ Sunday                   12 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Groff                    37 mins             ████████████████████████░   95.44 % 
-Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Safari                   38 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-root                     38 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      38 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -90,7 +91,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2025 18:44:40 UTC
+ Last Updated on 17/08/2025 18:46:12 UTC
 <!--END_SECTION:waka-->
 
 
