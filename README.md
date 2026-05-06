@@ -37,7 +37,7 @@ My Social Platform:
  > 
 > 📜 18 Public Repositories 
  > 
-> 🔑 10 Private Repositories 
+> 🔑 11 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -81,17 +81,17 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   8 repos             ██████████░░░░░░░░░░░░░░░   38.10 % 
-Jupyter Notebook         6 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-Typst                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Python                   9 repos             ██████████░░░░░░░░░░░░░░░   40.91 % 
+Jupyter Notebook         6 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+Typst                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 ```
 
 
 
 
- Last Updated on 05/05/2026 19:55:54 UTC
+ Last Updated on 06/05/2026 20:05:44 UTC
 <!--END_SECTION:waka-->
 
 
