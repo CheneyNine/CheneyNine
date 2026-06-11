@@ -1,31 +1,32 @@
 ### Welcome 👋
 
-<!--
-**CheneyNine/CheneyNine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Yinan Chen.
 
-Here are some ideas to get you started:
+Student, developer, and curious builder working on software, AI, and Apple platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Static Badge](https://img.shields.io/badge/GitHub-CheneyNine-181717?style=flat&logo=github&logoColor=white)](https://github.com/CheneyNine)
+[![Static Badge](https://img.shields.io/badge/Website-cheneynine.top-0f766e?style=flat&logo=googlechrome&logoColor=white)](https://www.cheneynine.top)
+[![Static Badge](https://img.shields.io/badge/School-ECNU-AE1F3D?style=flat&logo=academia&logoColor=white)](#)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-Yinan%20Chen-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yinan-chen-9b09202b9/)
 
-My Social Platform:
-![Static Badge](https://img.shields.io/badge/_-CheneyNine-black?style=flat&logo=Github&logoColor=white&cacheSeconds=https%3A%2F%2Fgithub.com%2FCheneyNine)
-![Static Badge](https://img.shields.io/badge/_-cheneynine.top-purple?style=flat&logo=googlehome&logoColor=white&link=https%3A%2F%2Fwww.cheneynine.top)
-![Static Badge](https://img.shields.io/badge/_-CQU__Cheney-green?style=flat&logo=wechat&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyinan-chen-9b09202b9%2F)
-![Static Badge](https://img.shields.io/badge/_-Cheney-blue?style=flat&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyinan-chen-9b09202b9%2F)
+## About
 
+- CS student with a strong interest in building useful tools.
+- Exploring AI, Swift, and research-oriented projects.
+- Learning by shipping small projects and documenting what I find.
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-610%20hrs%2012%20mins-blue?style=flat)
+## Current Focus
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+- AI tooling and agents
+- Swift and Apple ecosystem development
+- Research, writing, and experimental side projects
+
+## Selected Links
+
+- Website: [cheneynine.top](https://www.cheneynine.top)
+- GitHub: [@CheneyNine](https://github.com/CheneyNine)
+- LinkedIn: [Yinan Chen](https://www.linkedin.com/in/yinan-chen-9b09202b9/)
+
 
 **🐱 My GitHub Data** 
 
@@ -40,58 +41,3 @@ My Social Platform:
 > 🔑 15 Private Repositories 
  > 
 **I'm an Early 🐤** 
-
-```text
-🌞 Morning                52 commits          ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
-🌆 Daytime                122 commits         ██████████████░░░░░░░░░░░   54.71 % 
-🌃 Evening                44 commits          █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
-🌙 Night                  5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-Tuesday                  57 commits          ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
-Wednesday                45 commits          █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
-Thursday                 34 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-Friday                   31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-Saturday                 12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-Sunday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   11 repos            ███████████░░░░░░░░░░░░░░   44.00 % 
-Jupyter Notebook         6 repos             ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
-Swift                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Typst                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-```
-
-
-
-
- Last Updated on 10/06/2026 21:04:37 UTC
-<!--END_SECTION:waka-->
-
-
